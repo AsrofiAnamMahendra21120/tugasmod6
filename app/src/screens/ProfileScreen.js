@@ -120,11 +120,11 @@ export function ProfileScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#497adbff",
+    backgroundColor: "#9cb415ff",
     padding: 16,
   },
   card: {
-    backgroundColor: "#805a5aff",
+    backgroundColor: "#00ff2aff",
     padding: 20,
     borderRadius: 12,
     marginBottom: 16,
@@ -178,7 +178,7 @@ const styles = StyleSheet.create({
     fontSize: 15,
   },
   infoCard: {
-    backgroundColor: "#fff",
+    backgroundColor: "#00ff11ff",
     padding: 16,
     borderRadius: 12,
     borderLeftWidth: 4,

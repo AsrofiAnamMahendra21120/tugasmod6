@@ -4,9 +4,9 @@ import { Animated, View, Text, StyleSheet, Image } from "react-native";
 export default function SplashScreen({
   delay = 3000,
   fadeDuration = 700,
-  backgroundColor = "#b32a2aff",
+  backgroundColor = "#ffffffff",
   imageSource = require("../../assets/temperature_icon.png"),
-  title = "Sistem Monitoring \n Suhu - Kelompok 7 Tampan",
+  title = "Sistem Monitoring \n Suhu - Kelompok 8 SIGMA",
   onFinish,
 }) {
   const opacity = useRef(new Animated.Value(1)).current;

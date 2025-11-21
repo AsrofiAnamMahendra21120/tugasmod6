@@ -85,5 +85,5 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginBottom: 12,
   },
-  error: { color: "#c82333", marginBottom: 8 },
+  error: { color: "#12a52dff", marginBottom: 8 },
 });
