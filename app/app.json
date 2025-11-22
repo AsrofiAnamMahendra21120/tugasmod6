@@ -28,7 +28,7 @@
       "backendUrl": "http://192.168.1.9:5000",
       "mqtt": {
         "brokerUrl": "wss://broker.hivemq.com:8884/mqtt",
-        "topic": "ppb/kel14/iot/temperature"
+        "topic": "ppb/kel08/iot/temperature"
       }
     },
     "plugins": [
